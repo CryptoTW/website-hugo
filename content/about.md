@@ -9,7 +9,7 @@ author = "Hugo Authors"
 
 <!--more-->
 
-任職於百大企業，擔任手機系統架構部門，熟悉行動支付，Androdi Security.
+任職於百大企業，擔任手機系統架構部門，熟悉行動支付，Android Security
 
 推廣加密貨幣，致力於財富自由，近期感興趣方向:
 
